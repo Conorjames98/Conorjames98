@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
 
 ## About Me
-Briefly introduce yourself, your background, and your interests in the tech world.
+I'll update this when I can be bothered 🧑‍💻
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -14,7 +14,6 @@ Briefly introduce yourself, your background, and your interests in the tech worl
 ![C/C++/C#](https://img.shields.io/badge/C%2FC%2B%2B%2FC%23-00599C?style=flat-square&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white
 
 ## 🌱 Currently Learning
 artificial intelligence and data persistence.
@@ -28,11 +27,6 @@ Electronic Membrane Information Library
 - [Repository](https://github.com/yourusername/project1)
 - [Live Demo](https://yourprojectdemo.com)
 
-### Project 2
-- Description: Brief project description
-- [Repository](https://github.com/yourusername/project2)
-- [Live Demo](https://yourprojectdemo.com)
-
 ## 📫 Contact
 - Email: conor_1998@hotmail.co.uk
 
@@ -41,9 +35,6 @@ N/A Currently
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🌟 Fun Facts
 2 + 2 is 4 minus 1 thats 3 quick maths 
