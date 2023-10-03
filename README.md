@@ -35,6 +35,3 @@ N/A Currently
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🌟 Fun Facts
-2 + 2 is 4 minus 1 thats 3 quick maths 
