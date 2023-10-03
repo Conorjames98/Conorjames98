@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
 
 ## About Me
-I'll update this when I can be bothered 🧑‍💻
+My main goal is to be a full stack developer 📚
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
